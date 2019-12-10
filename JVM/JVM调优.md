@@ -35,7 +35,7 @@ eg : -XX:MaxGCPauseMillis=500
 查看运行时JAVA进程 (https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jps.html)
 
 2、jinfo
-查看运行时参数
+查看运行时参数 jinfo -flags PID
 
 3、jstat : 查看JVM统计信息
 

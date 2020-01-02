@@ -21,3 +21,4 @@
 工程师优秀的特点:  
 工作认真严谨，勤而好学，学以致用，善于合作，爱思考，有情怀，有志向
 
+[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
